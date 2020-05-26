@@ -1,4 +1,6 @@
-# todo
+# Todo
+
+![](src/assets/vue-todo-app.png)
 
 ## Project setup
 ```
